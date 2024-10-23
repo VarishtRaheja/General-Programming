@@ -1,2 +1,2 @@
 # General Programming
-Here are scipts written for certain automated tasks related to computer graphics and can be third party software specific (Nuke, Houdini). Also will be using this space to add more projects which are generic.
+Scripts created in oython for my research and thesis work. Used to generate packed points based on cluster attribute and write out the positional data to optimise the file.
