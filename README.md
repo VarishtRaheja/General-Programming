@@ -1,2 +1,2 @@
-# cool-FX
-A collection of scripts and projects undertaken during my graduate study.
+# General Programming
+Here are scipts written for certain automated tasks related to computer graphics and can be third party software specific (Nuke, Houdini). Also will be using this space to add more projects which are generic.
